@@ -12,14 +12,41 @@
  * requirements set forth in this section, and must support all possible values
  * that might be passed into your methods.
  * 
- * Work through these exercises on your own. Experiment, make mistakes, ask
- * questions, and fix your mistakes. It's the only way to get good at programming.
- */
-
-public class ProblemSet5 {
-    
+ * Work through these exercises on your own. Experiment, make mistakes, askx
+  **/
+public class ProblemSet5{
+	
     public static void main(String[] args) {
-        
+    
+	String in;
+	String out;
+	String text;
+	int n;
+	String text;
+	Strin text;
+	String target;
+	String text;
+	char suffix;
+	String text;
+	String text;
+	String text;
+	String a;
+	String b;
+	String text;
+	
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+	System.out.println();
+
+    
     }
     
     /*
@@ -44,7 +71,7 @@ public class ProblemSet5 {
 
     }
     
-    /*
+    /*git
      * Exercise 3.
      * 
      * Given a string, return a new string using the middle three characters of text.
